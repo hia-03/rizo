@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="Banner.png" alt="Banner" width="100%">
+</p>
+
+
+
 # Abdullozoda Imomrizo (hia-03)
 
 ## Backend Developer
@@ -63,6 +69,8 @@ Backend-разработчик с опытом разработки устойч
 
 ## Контакты
 
-**Email:** habibulozoda1963@gmail.com  
-**Telegram:** @hia1963  
-**GitHub:** https://github.com/hia-03
+[![Email](https://img.shields.io/badge/Email-habibulozoda1963%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habibulozoda1963@gmail.com)
+
+[![Telegram](https://img.shields.io/badge/Telegram-@hia1963-blue?style=for-the-badge&logo=telegram)](https://t.me/hia1963)
+
+[![GitHub](https://img.shields.io/badge/GitHub-hia--03-black?style=for-the-badge&logo=github)](https://github.com/hia-03)
